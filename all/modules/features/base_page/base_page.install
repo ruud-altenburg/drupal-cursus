@@ -1,0 +1,6 @@
+<?php
+
+function base_page_update_7000(){
+	module_enable(array('help_me'));
+}
+
