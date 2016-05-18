@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Help me! feature.
+ */
+
+include_once 'help_me.features.inc';
