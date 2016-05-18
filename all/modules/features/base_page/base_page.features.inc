@@ -19,7 +19,7 @@ function base_page_ctools_plugin_api($module = NULL, $api = NULL) {
 function base_page_node_info() {
   $items = array(
     'naturalis_page' => array(
-      'name' => t('Naturalis  Basic Page'),
+      'name' => t('Basic Page'),
       'base' => 'node_content',
       'description' => '',
       'has_title' => '1',
